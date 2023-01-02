@@ -8,7 +8,10 @@ const emojiDictionary = {
   "😊": "Smiling Face",
   "🪔": "Oil lamp",
   "❤️": "red heart",
-  "✨": "Sparkle"
+  "✨": "Sparkle",
+  "🫣": "Face with Peeking Eye",
+  "🫶": "Heart Hands",
+  "🎉": "Party Popper"
 };
 
 var emojisWeHave = Object.keys(emojiDictionary);
